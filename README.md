@@ -28,4 +28,4 @@ How to Run
 Alternatively, the project can be run using the Live Server extension in VS Code.
 
 Repository
-    GitHub:
+    GitHub: https://github.com/aparnamathew2002/expense-tracker-candidate-name.git
